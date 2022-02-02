@@ -70,5 +70,5 @@ On the homepage template, display the last 6 news:
 * Then to make it reusable somewhere else and clean the code, move the loop template into a block and call it into your loop
 
 # Finalizing
-Use a local environment to make this theme work and display what is expected. Don't hesitate to fake 10 posts to make it work as expected.
-At the end screenshot your PHP answers and your theme homepage, place them into the `screenshots` folder. 
+Use a local environment to make this theme working and displaying what is expected (don't hesitate to fake ~10 posts).
+At the end, take screenshots from your PHP answers and your theme homepage display, place them into the `screenshots` folder.
