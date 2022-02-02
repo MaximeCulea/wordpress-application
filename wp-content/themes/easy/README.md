@@ -18,6 +18,7 @@ Try to echo the following cases:
 
 * `$a` is a string, conditionally changing due to a true/false condition (pick 2 words you want)
 * `$b` is a string depending on a switch case (use whatever test values and strings)
+* `$a` & `$b`
 
 ### Loops
 Try to echo the following cases:
