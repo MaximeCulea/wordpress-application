@@ -61,6 +61,7 @@ Now your html has been split out, you must dynamize it, which means replacing al
 * same for image's source
 * also apply to assets (css/javascript)
 * so on ..
+
 Do it on header and footer
 
 ### WP_Query & loop
