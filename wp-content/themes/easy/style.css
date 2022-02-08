@@ -1,0 +1,33 @@
+/* ----------------------------------
+
+Theme Name: Easy Theme
+Author: 
+Author URI: 
+Description: WP version from easy portfolio
+Version: 1.0
+*/
+
+/*
+Some basic styles for the demo
+*/
+
+
+.work-list  li{
+    height: 400px;
+    max-height: 400px;
+    background-color: white !important;
+    border: 1px solid#c4c4c4 !important;
+    justify-content: center;
+    /* align-content: center; */
+    /* align-items: center; */
+    flex-direction: column;
+    /* align-self: center; */
+    display: flex;
+   
+}
+    
+
+
+.post_read_more a{
+    color: #c4c4c4;
+} 

@@ -1,0 +1,50 @@
+<?php 
+  /*
+  Footer Template
+  */
+?>
+
+	<!-- footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+
+                <div class="footer-wrapper">
+                    
+                    <div class="footer-info col-sm-4 col-xs-12">
+                        <ul>
+                            <li><a href="tel:+9145632973" class="white-link"><i class="fa fa-phone-square"></i>+XXXXXXXXX</a></li>
+                            <li><a href="mailto:work@jamesvincent.me" class="white-link"><i class="fa fa-google"></i>xxx@xxxxxxx.me</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="footer-name col-sm-4 col-xs-12">
+                        <span>Wide test</span>
+                       
+                    </div>
+
+                    <div class="footer-socials col-sm-4 col-xs-12">
+                        <ul class="socials">
+                            <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
+                            <li><a href="#"><i class="fa fa-behance-square"></i></a></li>
+                            <li><a href="#"><i class="fa fa-pinterest-square"></i></a></li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </footer>
+</div>
+
+<!-- javascript -->
+<script src="<?php echo get_theme_file_uri(). '/html/js/plugins.js';?>"></script>
+<script src="<?php echo get_theme_file_uri(). '/html/js/smooth-scroll.js';?>"></script>
+<script src="<?php echo get_theme_file_uri(). '/html/js/jquery.countTo.js;'?>"></script>
+<script type="text/javascript" src="<?php echo get_theme_file_uri(). '/html/js/main.js';?>"></script>
+</body>
+</html>
+
+
