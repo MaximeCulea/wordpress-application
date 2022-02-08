@@ -47,15 +47,12 @@ get_header();
 		<div class="gallery" id="gallery">
 			<div class="container">
 				<div class="row center-block">
-				
+				<!-- Home posts loop -->
 				<?php get_template_part( 'template-parts/content', 'home' );; ?>
 
 				</div>
 			</div>
-		</div>
-
-
-		
+		</div>		
 <?php
 get_footer();
 

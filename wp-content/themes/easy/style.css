@@ -10,8 +10,6 @@ Version: 1.0
 /*
 Some basic styles for the demo
 */
-
-
 .work-list  li{
     height: 400px;
     max-height: 400px;
@@ -25,9 +23,6 @@ Some basic styles for the demo
     display: flex;
    
 }
-    
-
-
 .post_read_more a{
     color: #c4c4c4;
 } 

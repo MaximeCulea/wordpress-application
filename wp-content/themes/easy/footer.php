@@ -3,7 +3,6 @@
   Footer Template
   */
 ?>
-
 	<!-- footer -->
     <footer>
         <div class="container">
